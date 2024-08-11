@@ -2151,6 +2151,114 @@
 			)
 		)
 	)
+	(no_connect
+		(at 158.75 118.11)
+		(uuid "027dd99a-f3b7-4bd9-a9e7-12712df821f0")
+	)
+	(no_connect
+		(at 181.61 92.71)
+		(uuid "03d4df0e-743a-45a0-8014-d9322fb8cc9f")
+	)
+	(no_connect
+		(at 120.65 100.33)
+		(uuid "03f0e483-77bc-4b57-9392-30074d3241f3")
+	)
+	(no_connect
+		(at 181.61 97.79)
+		(uuid "06a1eb05-226f-4ea7-9d95-0ae5e9ee6ff7")
+	)
+	(no_connect
+		(at 120.65 87.63)
+		(uuid "1009c194-32d6-4998-bb09-44d94fcc35eb")
+	)
+	(no_connect
+		(at 120.65 80.01)
+		(uuid "1d26149a-cbda-4269-9fb5-70d50cde9a67")
+	)
+	(no_connect
+		(at 92.71 85.09)
+		(uuid "2677f60d-90ef-4b83-ba57-0ae2fb5d99d7")
+	)
+	(no_connect
+		(at 120.65 97.79)
+		(uuid "31796813-9ad6-4cd3-b263-462901707111")
+	)
+	(no_connect
+		(at 181.61 80.01)
+		(uuid "429b0ce1-48b3-4c05-8e9c-8110dcef0614")
+	)
+	(no_connect
+		(at 181.61 85.09)
+		(uuid "59650c99-c08e-4d42-90e2-eabd5cfc2871")
+	)
+	(no_connect
+		(at 120.65 90.17)
+		(uuid "59e5472a-b74b-4c5d-98ef-e95ba51d7823")
+	)
+	(no_connect
+		(at 120.65 85.09)
+		(uuid "5dfeb77a-1783-48f8-961a-b5c60d746f94")
+	)
+	(no_connect
+		(at 92.71 92.71)
+		(uuid "5e781bb8-efae-4824-ba72-af315f9252c4")
+	)
+	(no_connect
+		(at 92.71 77.47)
+		(uuid "604402b6-a475-4d6f-83b6-83071cf3ec3e")
+	)
+	(no_connect
+		(at 120.65 102.87)
+		(uuid "68e2971f-233b-45d7-8d7f-463e187e2837")
+	)
+	(no_connect
+		(at 92.71 82.55)
+		(uuid "6d5b61a2-1ac9-40c8-9bff-6bf3964b4b35")
+	)
+	(no_connect
+		(at 120.65 105.41)
+		(uuid "7d252405-a45e-4724-8867-2a3f927004e2")
+	)
+	(no_connect
+		(at 120.65 77.47)
+		(uuid "8a16da97-a5c6-4974-8fc0-dc11e6b66fa7")
+	)
+	(no_connect
+		(at 120.65 82.55)
+		(uuid "9c9887b5-adab-4457-a1f0-b38651de9802")
+	)
+	(no_connect
+		(at 120.65 92.71)
+		(uuid "aaadb10d-1d6e-46af-8e7b-1e6f5629587d")
+	)
+	(no_connect
+		(at 166.37 118.11)
+		(uuid "b447f0a4-edef-4665-b05a-eeab2231e5ea")
+	)
+	(no_connect
+		(at 107.95 72.39)
+		(uuid "b6948945-e182-4621-a388-282f811421df")
+	)
+	(no_connect
+		(at 120.65 107.95)
+		(uuid "bd4b6886-07a2-4626-b920-dcba6d37fd00")
+	)
+	(no_connect
+		(at 92.71 90.17)
+		(uuid "be58b7c6-4d87-476e-8f3f-7d6a25ae310c")
+	)
+	(no_connect
+		(at 120.65 95.25)
+		(uuid "c19c067d-43c5-4971-ad55-42f88845784e")
+	)
+	(no_connect
+		(at 107.95 115.57)
+		(uuid "ca3a0997-9dce-4f02-8c7c-6ab904070695")
+	)
+	(no_connect
+		(at 181.61 87.63)
+		(uuid "ee0fdba9-5294-453b-b9b0-39df0a76569d")
+	)
 	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_16P")
 		(at 158.75 92.71 0)
