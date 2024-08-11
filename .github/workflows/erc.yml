@@ -3,7 +3,7 @@ on: [push]
 jobs:
   kicad_job:
     runs-on: ubuntu-latest
-    name: My KiCad job
+    name: ERC Report
     steps:
       - name: Checkout
         uses: actions/checkout@v4
