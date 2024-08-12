@@ -28,6 +28,9 @@ fp-info-cache
 *.xml
 *.csv
 
+# Exported manufactuting files
+*.step
+
 # Backups
 *-backups/*
 
