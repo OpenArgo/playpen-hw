@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  kicad:
+    image: linuxserver/kicad
+    container_name: kicad
+    environment:
+      - PUID=1000  
+      - PGID=1000 
+      - TZ=America/New_York 
+    volumes:
+      - ./kicad/config:/config
+      - ./kicad/projects:/projects
+    ports:
+      - 3001:3000 
+    restart: unless-stopped
+
+  freecad:
+    image: linuxserver/freecad
+    container_name: freecad
+    environment:
+      - PUID=1000  
+      - PGID=1000  
+      - TZ=America/New_York  
+    volumes:
+      - ./freecad/config:/config
+      - ./freecad/projects:/projects
+    ports:
+      - 3002:3000  
+    restart: unless-stopped
+
+  blender:
+    image: linuxserver/blender
+    container_name: blender
+    environment:
+      - PUID=1000  
+      - PGID=1000  
+      - TZ=America/New_York  
+    volumes:
+      - ./blender/config:/config
+      - ./blender/projects:/projects
+    ports:
+      - 3003:3000  
+    restart: unless-stopped
+
+networks:
+  default:
+    driver: bridge
+
